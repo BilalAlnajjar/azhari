@@ -15,9 +15,9 @@
                 </div>
     </div>
     <div class="data d-flex justify-content-center">
-        <div class="container">
-                <span class="data-title">نبذة تاريخية<i class="fas fa-circle "></i></span>
-                <div class="data-paragraph">
+        <div class="container d-flex flex-column">
+                <span class="text-right mb-2">نبذة تاريخية<i class="fas fa-circle ml-2"></i></span>
+                <div class="text-right" style="direction: ltr">
                     <p>
                         . هي(دار الإمام الشافعي الأزهرية للعلوم الشرعية) تلك الدار التي ولد فيها الإمام محمد ابن ادريس الشافعي (رحمه الله تعالى) عام 150 هجرية والتي هاجر ملها مع أمه وعمره علمان ,وقد بقيت هذه الدار محط أنظار الغزيين على مدار السنين فقيها دغلت ابنته السيدة أسيا
                         وخادمه الشيخ علية رحمهما الله تعالى ومقامهما موجود بالدار إلى يومنا هذا ,وعنها كتب قائم مقام غزة (عارف العـارف) في كتابه الشهير (تـاريخ غرة) والمطبوع عام 1942م (حبذا لو فكر الغزيين بمواطنهم الذي رفع قدرهم وقدر مديلتهم ومجدوا الدار
@@ -34,21 +34,21 @@
 
 
                 </div>
-                <span class="data-title1">الرؤية والأهداف والخدمات  <i class="fas fa-circle "> </i></span>
-                <div class="data-par">
-                    <span class="data-title">الرؤية <i class="fas fa-circle "></i></span>
+                <span class="text-right mb-2 data-title1">الرؤية والأهداف والخدمات  <i class="fas fa-circle ml-2"> </i></span>
+                <div class="data-par container d-flex flex-column">
+                    <span class="text-right mb-2">الرؤية <i class="fas fa-circle ml-2"></i></span>
                     <p class="data-text">
                         تسعى الإدارة العامة للمعاهد الأزهرية إلى إعادة إحياء هذا الصرح العظيم وإعادة هيئته كمزار تاريخي عظيم يفتخر به وليكون مدارة لنشر الفكر الأزهري الوسطي وتحفيظ القرآن الكريم تنمية مبادئ الإسلام الحنيف لدى كافة شرائح المجتمع من خلال المراكز المنتشرة لتعزيز
                         مفهوم الرحم وحسن التعامل والتي تسعى لتخريج أئمة ودعاة ومفتين وفق رؤية الازهر الشريف.
 
                     </p>
-                    <span class="data-title">الأهداف <i class="fas fa-circle let1"></i></span>
+                    <span class="text-right mb-2">الأهداف <i class="fas fa-circle let1 ml-2"></i></span>
                     <p class="data-text">
                         إحياء التراث الإسلامي استقبال الزوار والباحثين وتشجيعهم على الكتابة والنشر عن هذه الدار للتعريف بها . تخفيف العبي المالي الناتج عن ارتفاع تكلفة وصول الطلاب والمريدون للدراسة. . تشجيع أولياء الأمور على ارسال أبنائهم وعواظهم للاستفادة من العلوم الشرعية
                         والمناهج الوسطية التي تدرس
 
                     </p>
-                    <span class="data-title">الخدمات <i class="fas fa-circle let"></i></span>
+                    <span class="text-right mb-2">الخدمات <i class="fas fa-circle let ml-2"></i></span>
                     <p class="data-text">
                         تقدم الدار خدمات للمواطنين والطلبة في جميع الأعمار في المساقات التالية
                     </p>

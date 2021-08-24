@@ -1291,20 +1291,17 @@
         font-weight: bold;
         font-size: 21px;
         color: rgba(6, 30, 57, 1);
-        margin-left: 720px;
         margin-top: 10px;
         margin-bottom: 30px;
     }
 
     .data .data-title1 i {
-        margin-left: 10px !important;
         color: #28a745;
         font-size: 16px;
     }
 
     .data .data-par p {
         text-align: end;
-        margin-right: 290px;
     }
 
     /* .data .data-par::after {
@@ -2258,7 +2255,7 @@
     }
 
     } */
-    @media screen and (max-width: 450px){
+    /* @media screen and (max-width: 450px){
     .regester{
     width: 700px;
     }
@@ -2272,7 +2269,7 @@
     }
     .regester-ad .regester-title {
     margin-right: 62px;
-    } */
+    }  */
 /*
     .regester-heade .line::after {
     position: absolute;

@@ -64,7 +64,7 @@
 <div class="d-flex flex-md-row-reverse flex-column">
 
 <div class="d-flex flex-md-row-reverse">
-<div class="wrapper container-fluid" id="mySidebar">
+<div class="wrapper container-fluid mt-md-0 mt-2" id="mySidebar">
     <div class="sidebar d-flex flex-column" style="min-height: 100%; height:100vh;" id="navbarText">
         <button type="button" class="close d-block d-md-none" onclick="w3_close()" aria-label="Close">
             <span aria-hidden="true">&times;</span>
